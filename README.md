@@ -7,7 +7,6 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Visualizar](#como-visualizar)
-- 
 ---
 
 ## Sobre o Projeto
